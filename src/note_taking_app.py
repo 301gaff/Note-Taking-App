@@ -1,6 +1,4 @@
-
 import os
-
 NOTES_FILE = "notes.txt"
 
 def load_notes():
